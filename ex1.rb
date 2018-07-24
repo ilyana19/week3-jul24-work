@@ -2,6 +2,6 @@
 
 emotions = {
   happiness: 3,
-  hunger: 1
+  hunger: 1,
   fatigue: 2
 }
